@@ -50,7 +50,7 @@
 1. Establece el color primario de bootstrap a `#0d1629` 
 2. Utiliza esa variable como fondo del elemento `#ast-desktop-header`.
 
-## Modificar el footer (8pts)
+## Modificar el footer (6pts)
 1. Agrega el logo de Komo Biosciences en la parte izquierda del footer con un enlace a la página de inicio.
 2. Elimina el elemento "Home" del menú en el footer (sin eliminar el elemento del menú principal).
 3. Elimina los íconos de Facebook e Instagram de la lista de redes sociales en el footer. Agrega el ícono de LinkedIn.
