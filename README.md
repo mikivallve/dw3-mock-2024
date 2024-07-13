@@ -4,8 +4,9 @@
 1. Descarga el sitio web de Komo Biosciences de este repositorio.
 2. Importa el sitio web a tu entorno local de Flywheel.
 
-## Activar el tema Komo (1pt)
-1. Activa el tema Komo en tu sitio web local.
+## Edita el tema Komo (1pt)
+1. Edita el tema Komo para que WordPress te reconozca como autor del tema.
+2. Coloca tu número de estudiante como versión del tema
 
 ## Crear un usuario Editor de WordPress (2pt)
 1. Crea un usuario con el nombre "Keith Bowermaster" y el email "keith@komobiosciences.com".
